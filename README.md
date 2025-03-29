@@ -1,2 +1,3 @@
-# Clock
-A Zen Clock written in RUst
+# rsclock
+
+A description of this project.

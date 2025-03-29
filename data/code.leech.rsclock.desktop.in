@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rsclock
+Exec=rsclock
+Icon=code.leech.rsclock
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

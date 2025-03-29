@@ -1,0 +1,6 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/code.leech.rsclock.desktop.in
+data/code.leech.rsclock.metainfo.xml.in
+data/code.leech.rsclock.gschema.xml
+src/window.ui
