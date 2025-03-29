@@ -1,3 +1,5 @@
-# rsclock
+# Clock
 
-A description of this project.
+A zen clock built in Rust
+No **distractions,** pure *bliss*
+
