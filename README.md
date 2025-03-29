@@ -1,6 +1,13 @@
 # Clock
 
 A zen clock built in Rust
-No **distractions,** pure *zen*
+No **distractions,** pure *bliss*
+<<<<<<< Updated upstream
+
+
+
 https://github.com/user-attachments/assets/17241ab8-a7ed-4f79-98a0-1db49d594e21
 
+=======
+git
+>>>>>>> Stashed changes
